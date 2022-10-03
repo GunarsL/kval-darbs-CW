@@ -1,2 +1,4 @@
-# kval-darbs-CW
-Gunārs Leitāns DP4-2 kvalifikācijas darba izveides repo.
+# Gunārs Leitāns
+# DP4-2
+# Kvalifikācijas darbs
+Kvalifikācijas darba veikšanas GitHub repozitorijs.
