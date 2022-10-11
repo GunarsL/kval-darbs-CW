@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CinemaWorld",
+    "\\CinemaWorld\\CinemaWorld",
+    "\\CinemaWorld\\CinemaWorld\\Areas",
+    "\\CinemaWorld\\CinemaWorld\\Areas\\Identity",
+    "\\CinemaWorld\\CinemaWorld\\Areas\\Identity\\Pages",
+    "\\CinemaWorld\\CinemaWorld\\Data",
+    "\\CinemaWorld\\CinemaWorld\\Views",
+    "\\CinemaWorld\\CinemaWorld\\Views\\Home",
+    "\\CinemaWorld\\CinemaWorld\\Views\\Shared"
   ],
+  "SelectedNode": "\\CinemaWorld\\CinemaWorld.sln",
   "PreviewInSolutionExplorer": false
 }
