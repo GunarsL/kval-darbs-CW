@@ -340,3 +340,4 @@ C:\Users\Gunars\Desktop\kval-darbs-CW\CinemaWorld\CinemaWorld\bin\Debug\net6.0\r
 C:\Users\Gunars\Desktop\kval-darbs-CW\CinemaWorld\CinemaWorld\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Gunars\Desktop\kval-darbs-CW\CinemaWorld\CinemaWorld\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Gunars\Desktop\kval-darbs-CW\CinemaWorld\CinemaWorld\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Gunars\Desktop\kval-darbs-CW\CinemaWorld\CinemaWorld\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
